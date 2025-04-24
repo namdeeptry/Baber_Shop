@@ -1,0 +1,27 @@
+﻿
+-- fake data
+--INSERT INTO Customers (Id,Name, Phone, BirthDate, CreateAt)
+--VALUES 
+--(1,N'Nguyễn Văn A', '0912345678', '1995-04-23', GETDATE()),
+--(2,N'Trần Thị B', '0987654321', '1990-08-15', GETDATE()),
+--(3,N'Lê Minh C', '0934567890', '1988-11-05', GETDATE());
+--INSERT INTO Staffs (Name, Role, WorkingHours)
+--VALUES
+--(N'Phạm Văn D', N'Thợ cắt', N'Ca sáng'),
+--(N'Nguyễn Thị E', N'Lễ tân', N'Ca chiều'),
+--(N'Lý Văn F', N'Quản lý', N'Ca hành chính');
+--INSERT INTO Services (Name, Price, Duration)
+--VALUES
+--(N'Cắt tóc nam', 80000, 30),
+--(N'Gội đầu', 50000, 20),
+--(N'Nhuộm tóc', 300000, 90);
+--INSERT INTO Appointments (CustomerId, ServiceId, StaffId, DateTime, Status)
+--VALUES
+--(1, 1, 1, '2025-04-16 10:00:00', N'Pending'),
+--(2, 2, 2, '2025-04-16 14:00:00', N'Completed'),
+--(3, 3, 1, '2025-04-17 09:00:00', N'Cancelled');
+--INSERT INTO Invoices (AppointmentId, TotalPrice, CreatedAt)
+--VALUES
+--(1, 80000, GETDATE()),
+--(2, 50000, GETDATE()),
+--(3, 300000, GETDATE());
