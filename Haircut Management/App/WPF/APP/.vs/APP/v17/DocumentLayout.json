@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|d:\\projects\\haircut management\\app\\wpf\\app\\app\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|solutionrelative:app\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "APP\\View\\MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\View\\MainWindow.xaml",
+              "RelativeToolTip": "APP\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T11:38:14.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

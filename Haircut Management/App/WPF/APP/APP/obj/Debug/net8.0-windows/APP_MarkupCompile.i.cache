@@ -1,0 +1,20 @@
+﻿APP
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Projects\Haircut Management\App\WPF\APP\APP\obj\Debug\net8.0-windows\
+APP
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\Projects\Haircut Management\App\WPF\APP\APP\App.xaml
+6-659023815
+
+18-1194445605
+198-211836927
+View\AppointmentsView.xaml;View\CustomersView.xaml;View\InvoicesView.xaml;View\MainWindow.xaml;View\ServicesView.xaml;View\StaffsView.xaml;
+
+True
+
