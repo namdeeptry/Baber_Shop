@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\Projects\Haircut Management\App\WPF\APP\APP\App.xaml
-6-659023815
+9-1812823303
 
-18-1194445605
-198-211836927
-View\AppointmentsView.xaml;View\CustomersView.xaml;View\InvoicesView.xaml;View\MainWindow.xaml;View\ServicesView.xaml;View\StaffsView.xaml;
+22-2140082311
+201-332036164
+UserControls\MyOption.xaml;UserControls\MyTextbox.xaml;View\AppointmentsView.xaml;View\CustomersView.xaml;View\InvoicesView.xaml;View\LoginView.xaml;View\MainWindow.xaml;View\ServicesView.xaml;View\StaffsView.xaml;
 
-True
+False
 
