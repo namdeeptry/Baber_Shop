@@ -1,10 +1,15 @@
 ﻿
-
-FD:\Projects\Haircut Management\App\WPF\APP\APP\View\AppointmentsView.xaml;;
+FD:\Projects\Haircut Management\App\WPF\APP\APP\App.xaml;;
+FD:\Projects\Haircut Management\App\WPF\APP\APP\Utilities\DataTemplate.xaml;;
+FD:\Projects\Haircut Management\App\WPF\APP\APP\View\AppoinmentsView.xaml;;
 FD:\Projects\Haircut Management\App\WPF\APP\APP\View\CustomersView.xaml;;
+FD:\Projects\Haircut Management\App\WPF\APP\APP\View\HomeView.xaml;;
 FD:\Projects\Haircut Management\App\WPF\APP\APP\View\InvoicesView.xaml;;
 FD:\Projects\Haircut Management\App\WPF\APP\APP\View\LoginView.xaml;;
 FD:\Projects\Haircut Management\App\WPF\APP\APP\View\MainWindow.xaml;;
+FD:\Projects\Haircut Management\App\WPF\APP\APP\View\ReportsView.xaml;;
 FD:\Projects\Haircut Management\App\WPF\APP\APP\View\ServicesView.xaml;;
+FD:\Projects\Haircut Management\App\WPF\APP\APP\View\SettingsView.xaml;;
+FD:\Projects\Haircut Management\App\WPF\APP\APP\View\SignUpView.xaml;;
 FD:\Projects\Haircut Management\App\WPF\APP\APP\View\StaffsView.xaml;;
 

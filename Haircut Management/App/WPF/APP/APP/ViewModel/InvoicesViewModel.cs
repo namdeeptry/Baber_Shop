@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace APP.ViewModel
 {
-    internal class InvoicesViewModel
+    internal class InvoicesViewModel:BaseViewModel
     {
     }
 }

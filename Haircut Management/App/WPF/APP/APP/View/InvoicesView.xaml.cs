@@ -10,6 +10,7 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 using APP.ViewModel;
 
@@ -18,7 +19,7 @@ namespace APP.View
     /// <summary>
     /// Interaction logic for InvoicesView.xaml
     /// </summary>
-    public partial class InvoicesView : Window
+    public partial class InvoicesView : UserControl
     {
         public InvoicesView()
         {

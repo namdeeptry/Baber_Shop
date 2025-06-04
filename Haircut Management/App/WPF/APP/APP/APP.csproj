@@ -9,14 +9,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\burger-menu.png" />
+    <None Remove="Images\business-report.png" />
     <None Remove="Images\Close.png" />
     <None Remove="Images\closes.png" />
+    <None Remove="Images\customer.png" />
+    <None Remove="Images\employment.png" />
+    <None Remove="Images\home.png" />
+    <None Remove="Images\invoice.png" />
     <None Remove="Images\list.png" />
     <None Remove="Images\Logo_Login.png" />
     <None Remove="Images\minimizesign.png" />
     <None Remove="Images\minus.png" />
     <None Remove="Images\next.png" />
     <None Remove="Images\previous.png" />
+    <None Remove="Images\setting.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -29,10 +36,25 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Images\business-report.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="Images\Close.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="Images\closes.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\customer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\employment.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\home.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\invoice.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="Images\list.png">
@@ -51,6 +73,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
     <Resource Include="Images\previous.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\setting.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>

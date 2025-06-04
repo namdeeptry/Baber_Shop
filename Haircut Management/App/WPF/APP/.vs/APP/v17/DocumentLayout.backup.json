@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|d:\\projects\\haircut management\\app\\wpf\\app\\app\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|solutionrelative:app\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|d:\\projects\\haircut management\\app\\wpf\\app\\app\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|solutionrelative:app\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|d:\\projects\\haircut management\\app\\wpf\\app\\app\\usercontrols\\mytextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|solutionrelative:app\\usercontrols\\mytextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|d:\\projects\\haircut management\\app\\wpf\\app\\app\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|solutionrelative:app\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|d:\\projects\\haircut management\\app\\wpf\\app\\app\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|solutionrelative:app\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92F9F265-4326-4804-8712-347F2B15AFD2}|APP\\APP.csproj|d:\\projects\\haircut management\\app\\wpf\\app\\app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -22,43 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginView.xaml",
-              "DocumentMoniker": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\View\\LoginView.xaml",
-              "RelativeDocumentMoniker": "APP\\View\\LoginView.xaml",
-              "ToolTip": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\View\\LoginView.xaml",
-              "RelativeToolTip": "APP\\View\\LoginView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-09T07:12:28.22Z",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "APP\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "APP\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:10:43.373Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "APP\\View\\MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\View\\MainWindow.xaml",
+              "RelativeToolTip": "APP\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T07:08:29.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "APP\\View\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "APP\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvx0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:32:05.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\App.xaml",
               "RelativeDocumentMoniker": "APP\\App.xaml",
               "ToolTip": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\App.xaml",
               "RelativeToolTip": "APP\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-09T07:11:09.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyTextbox.xaml",
-              "DocumentMoniker": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\UserControls\\MyTextbox.xaml",
-              "RelativeDocumentMoniker": "APP\\UserControls\\MyTextbox.xaml",
-              "ToolTip": "D:\\Projects\\Haircut Management\\App\\WPF\\APP\\APP\\UserControls\\MyTextbox.xaml",
-              "RelativeToolTip": "APP\\UserControls\\MyTextbox.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-09T09:03:37.047Z",
+              "WhenOpened": "2025-05-29T11:01:50.835Z",
               "EditorCaption": ""
             }
           ]

@@ -22,5 +22,13 @@ namespace APP
             InitializeComponent();
             DataContext = new  MainViewModel();
         }
+
+        private void RowDefinition_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            if (e.ChangedButton == MouseButton.Left)
+            {
+                this.DragMove(); 
+            }
+        }
     }
 }

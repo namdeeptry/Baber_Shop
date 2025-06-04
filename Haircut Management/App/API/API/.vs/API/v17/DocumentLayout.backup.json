@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\Haircut Management\\App\\API\\API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A3D5DD3-2C0D-461D-B2BF-8AE79577ACE5}|API\\API.csproj|d:\\projects\\haircut management\\app\\api\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A3D5DD3-2C0D-461D-B2BF-8AE79577ACE5}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A3D5DD3-2C0D-461D-B2BF-8AE79577ACE5}|API\\API.csproj|d:\\projects\\haircut management\\app\\api\\api\\api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A3D5DD3-2C0D-461D-B2BF-8AE79577ACE5}|API\\API.csproj|solutionrelative:api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Haircut Management\\App\\API\\API\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Haircut Management\\App\\API\\API\\API\\Properties\\launchSettings.json*",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T10:59:21.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\Projects\\Haircut Management\\App\\API\\API\\API\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\CustomerController.cs",
               "ToolTip": "D:\\Projects\\Haircut Management\\App\\API\\API\\API\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "API\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T10:55:40.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Haircut Management\\App\\API\\API\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace APP.ViewModel
 {
-    internal class CustomersViewModel
+    internal class CustomersViewModel :BaseViewModel
     {
     }
 }

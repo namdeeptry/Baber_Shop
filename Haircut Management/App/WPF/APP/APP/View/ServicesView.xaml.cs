@@ -10,20 +10,19 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
-using APP.ViewModel;
 
 namespace APP.View
 {
     /// <summary>
     /// Interaction logic for ServicesView.xaml
     /// </summary>
-    public partial class ServicesView : Window
+    public partial class ServicesView : UserControl
     {
         public ServicesView()
         {
             InitializeComponent();
-            DataContext = new ServicesViewModel();
         }
     }
 }

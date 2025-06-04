@@ -1,0 +1,30 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:vm="clr-namespace:APP.ViewModel"
+                    xmlns:v ="clr-namespace:APP.View">
+
+    <DataTemplate DataType="{x:Type vm:MainViewModel}" >
+        <v:HomeView/>
+    </DataTemplate>
+    
+    <DataTemplate DataType="{x:Type vm:CustomersViewModel}" >
+        <v:CustomersView/>
+    </DataTemplate>
+    
+    <DataTemplate DataType="{x:Type vm:AppointmentsViewModel}" >
+        <v:AppoinmentsView/>
+    </DataTemplate>
+    
+    <DataTemplate DataType="{x:Type vm:InvoicesViewModel}" >
+        <v:InvoicesView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:ServicesViewModel}" >
+        <v:ServicesView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:StaffsViewModel}" >
+        <v:StaffsView/>
+    </DataTemplate>
+
+</ResourceDictionary>

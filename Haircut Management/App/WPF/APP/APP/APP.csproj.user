@@ -2,16 +2,22 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="UserControls\MyCheckbox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="UserControls\MyOption.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="UserControls\MyTextbox.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\AppointmentsView.xaml.cs">
+    <Compile Update="View\AppoinmentsView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\CustomersView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\HomeView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\InvoicesView.xaml.cs">
@@ -20,7 +26,16 @@
     <Compile Update="View\LoginView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="View\ReportsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="View\ServicesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SettingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SignUpView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\StaffsView.xaml.cs">
